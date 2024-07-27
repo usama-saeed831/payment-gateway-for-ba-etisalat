@@ -1,5 +1,5 @@
-# payment-gateway-for-ba-etisalat
-Etisalat Payment Gateway Addon for BA Book Everything
+# Etisalat Payment Gateway Addon for BA Book Everything
+
 This addon plugin integrates the Etisalat payment gateway with the "BA Book Everything" plugin, providing users with a seamless and secure way to process payments. "BA Book Everything" is a versatile booking plugin for WordPress, and this addon extends its functionality by enabling payment transactions through Etisalat.
 
 Features
